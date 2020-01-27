@@ -1,7 +1,7 @@
 # Neural-Network
 This neural network solves a problem set.
 
-[]!(problem_set.png)
+![This is the problem set](https://github.com/mmtmn/Neural-Network/blob/master/problem_set.png)
 
 Outputs after training:
 [[0.2689864 ]
