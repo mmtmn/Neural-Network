@@ -7,10 +7,12 @@ Random starting synaptic weights: </br>
 [[-0.16595599] </br>
  [ 0.44064899] </br>
  [-0.99977125]] </br>
+</br> 
 Synaptic weights after training: </br>
 [[ 0.12025406] </br>
  [ 0.50456196] </br>
  [-0.85063774]] </br>
+</br>
 Outputs after training: </br>
 [[0.2689864 ] </br>
  [0.3262757 ] </br>
