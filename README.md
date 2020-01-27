@@ -1,6 +1,8 @@
 # Neural-Network
 This neural network solves a problem set.
 
+[]!problem_set.png
+
 Outputs after training:
 [[0.2689864 ]
  [0.3262757 ]
